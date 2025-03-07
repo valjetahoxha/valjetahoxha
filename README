@@ -5,51 +5,57 @@
   <title>Valjete Hoxha</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
       margin: 20px;
-      color: #333333;
+      font-family: Arial, sans-serif;
+      color: #333;
+      line-height: 1.6;
     }
     h1, h2, h3 {
       margin-top: 1.2em;
-      margin-bottom: 0.5em;
+    }
+    .contact-links {
+      margin-bottom: 1em;
+    }
+    .contact-links a {
+      margin-right: 12px;
+      text-decoration: none;
+      color: #0073e6;
+      font-weight: bold;
+    }
+    .contact-links a:hover {
+      text-decoration: underline;
     }
     section {
       margin-bottom: 2em;
     }
     ul {
       list-style-type: disc;
-      margin-left: 2em;
+      margin: 0 0 1em 1.5em;
     }
-    .contact-links a {
-      margin-right: 10px;
-      text-decoration: none;
-      color: #0066cc;
-    }
-    .contact-links a:hover {
-      text-decoration: underline;
+    strong {
+      font-weight: bold;
     }
     .quote {
+      margin-top: 2em;
       font-style: italic;
-      color: #555555;
-      margin-top: 1.5em;
+      color: #555;
     }
   </style>
 </head>
 <body>
 
   <h1>Hey there! I’m Valjete Hoxha</h1>
-  <p class="contact-links">
-    <a href="https://linkedin.com/in/valjete-hoxha" target="_blank">LinkedIn</a> |
-    <a href="https://github.com/valjetahoxha" target="_blank">GitHub</a> |
+  <div class="contact-links">
+    <a href="https://linkedin.com/in/valjete-hoxha" target="_blank">LinkedIn</a>
+    <a href="https://github.com/valjetahoxha" target="_blank">GitHub</a>
     <a href="mailto:valjetahoxha2003@gmail.com">Email</a>
-  </p>
+  </div>
 
   <p>
-    I’m a <strong>Computer Science</strong> and <strong>Computer Engineering</strong> student with a passion 
-    for building data-driven applications, exploring AI &amp; machine learning, and creating memorable user 
-    experiences. Whether I’m designing curriculum for emerging developers or fine-tuning a machine learning 
-    model, my goal is to push boundaries and drive meaningful impact.
+    I’m a <strong>Computer Science</strong> and <strong>Computer Engineering</strong> student with a
+    passion for building data-driven applications, exploring AI &amp; machine learning, and creating
+    memorable user experiences. Whether I’m designing curriculum for emerging developers or fine-tuning
+    a machine learning model, my goal is to push boundaries and drive meaningful impact.
   </p>
 
   <section>
@@ -71,10 +77,9 @@
     </ul>
 
     <p>
-      <strong>Interests:</strong> I love <strong>teaching</strong> and <strong>mentoring</strong>, 
-      especially when it comes to fostering the next generation of developers. I’m also 
-      fascinated by <strong>data science</strong>, diving into big datasets, uncovering insights, 
-      and making informed decisions.
+      <strong>Interests:</strong> I love teaching and mentoring, especially when it comes to 
+      fostering the next generation of developers. I’m also fascinated by data science, diving into 
+      big datasets, uncovering insights, and making informed decisions.
     </p>
   </section>
 
@@ -84,14 +89,14 @@
     <h3>CodeSavanna (Remote Program Developer)</h3>
     <p><em>September 2024 – Present</em></p>
     <ul>
-      <li><strong>Curriculum Design:</strong> Created and taught courses in Python, web development, and data science to 10+ learners.</li>
+      <li><strong>Curriculum Design:</strong> Created and taught courses in Python, web dev, and data science to 10+ learners.</li>
       <li><strong>Collaboration:</strong> Worked with schools and organizations to expand outreach and impact.</li>
     </ul>
 
     <h3>iD Tech Camp (Co-Director &amp; Coding Instructor)</h3>
     <p><em>June 2023 – August 2024, Seattle, WA</em></p>
     <ul>
-      <li><strong>Hands-On Instruction:</strong> Taught Python, AI/ML, and game development to 50+ high school students.</li>
+      <li><strong>Hands-On Instruction:</strong> Taught Python, AI/ML, and game dev to 50+ high school students.</li>
       <li><strong>Workshops &amp; Mentorship:</strong> Guided students in secure coding, debugging, and software best practices.</li>
     </ul>
 
@@ -99,14 +104,14 @@
     <p><em>January 2024 – June 2024, Pristina, Kosovo</em></p>
     <ul>
       <li><strong>REST APIs &amp; Auth:</strong> Enhanced security and scalability by implementing robust authentication.</li>
-      <li><strong>Performance Optimization:</strong> Boosted performance by 30% through code refactoring and efficient database queries.</li>
+      <li><strong>Performance Optimization:</strong> Boosted performance by 30% through code refactoring and efficient queries.</li>
       <li><strong>AI/ML Integration:</strong> Analyzed user data for personalized content delivery.</li>
     </ul>
 
     <h3>Whitman College (Data Analyst)</h3>
     <p><em>September 2022 – May 2023, Walla Walla, WA</em></p>
     <ul>
-      <li><strong>A/B Testing:</strong> Conducted experiments to compare performance of various web page/app versions.</li>
+      <li><strong>A/B Testing:</strong> Conducted experiments to compare various web page/app versions.</li>
       <li><strong>Data Pipeline:</strong> Automated data processes for bird behavior studies using Python.</li>
       <li><strong>Research Insights:</strong> Provided analysis and visualization to drive actionable results.</li>
     </ul>
@@ -148,8 +153,8 @@
   <section>
     <h2>🎯 Let’s Connect</h2>
     <p>
-      I’m always excited to collaborate on <strong>cutting-edge projects</strong> or dive into discussions 
-      about <strong>ML, AI, and software design</strong>.
+      I’m always excited to collaborate on <strong>cutting-edge projects</strong> or dive 
+      into discussions about <strong>ML, AI, and software design</strong>.
     </p>
     <p>
       <strong>GitHub:</strong> 
@@ -159,11 +164,6 @@
       <strong>Email:</strong> 
       <a href="mailto:valjetahoxha2003@gmail.com">valjetahoxha2003@gmail.com</a><br />
       <strong>Phone:</strong> +1 (509) 593-2477
-    </p>
-    <p class="quote">
-      “Learning to write programs stretches your mind, and helps you think better, 
-      creates a way of thinking about things that I think is helpful in all domains.” 
-      — Bill Gates
     </p>
   </section>
 
