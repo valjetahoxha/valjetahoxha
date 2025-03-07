@@ -75,10 +75,5 @@ I’m a **Computer Science** and **Computer Engineering** student with a passion
 
 ---
 
-# 🎯 Let’s Connect
 
-I’m always excited to collaborate on **cutting-edge projects** or dive into discussions about **ML, AI, and software design**.
-
-- **GitHub**: [github.com/valjetahoxha](https://github.com/valjetahoxha)  
-- **LinkedIn**: [linkedin.com/in/v
 
