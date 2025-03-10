@@ -5,75 +5,99 @@ I’m a **Computer Science** and **Computer Engineering** student with a passion
 
 ---
 
-# 🚀 About Me
+##🚀 About Me
 
-### Education
-- **Whitman College** — B.Sc. in Computer Science (Expected May 2024)  
-- **Aquincum Institute of Technology** — B.Sc. in Computer Engineering
+Education
 
-### Focus Areas
-- Python, Java, C/C++, Kotlin  
-- AI/ML (PyTorch, Scikit-learn, LLMs)  
-- Django, Firebase, AWS, REST APIs  
-- Data Analysis & Visualization (Pandas, NumPy, Matplotlib)  
-- UI/UX Design Principles
+Whitman College — B.Sc. in Computer Science (Expected May 2024)
 
-**Interests**: I love **teaching** and **mentoring**, especially when it comes to fostering the next generation of developers. I’m also fascinated by **data science**, diving into big datasets, uncovering insights, and making informed decisions.
+Aquincum Institute of Technology — B.Sc. in Computer Engineering
 
----
+Technical Skills
 
-# ✨ Experience Highlights
+Languages
 
-### CodeSavanna (Remote Program Developer)  
-**September 2024 – Present**  
-- **Curriculum Design**: Created and taught courses in Python, web dev, and data science to 10+ learners.  
-- **Collaboration**: Worked with schools and organizations to expand outreach and impact.
+Python, Java, C/C++, Kotlin
 
-### iD Tech Camp (Co-Director & Coding Instructor)  
-**June 2023 – August 2024, Seattle, WA**  
-- **Hands-On Instruction**: Taught Python, AI/ML, and game dev to 50+ high school students.  
-- **Workshops & Mentorship**: Guided students in secure coding, debugging, and software best practices.
+AI & Machine Learning
 
-### VentureUp (Software Engineer)  
-**January 2024 – June 2024, Pristina, Kosovo**  
-- **REST APIs & Auth**: Enhanced security and scalability by implementing robust authentication.  
-- **Performance Optimization**: Boosted performance by 30% through code refactoring and efficient queries.  
-- **AI/ML Integration**: Analyzed user data for personalized content delivery.
+PyTorch, Scikit-learn, LLMs
 
-### Whitman College (Data Analyst)  
-**September 2022 – May 2023, Walla Walla, WA**  
-- **A/B Testing**: Conducted experiments to compare various web page/app versions.  
-- **Data Pipeline**: Automated data processes for bird behavior studies using Python.  
-- **Research Insights**: Provided analysis and visualization to drive actionable results.
+Web Development
 
----
+Django, React, Firebase, AWS, REST APIs
 
-# 🏆 Key Projects
+Data Analysis & Visualization
 
-### Data Analysis on Economic Indicators
-- **Data Cleaning & Preprocessing**: Handled missing values using Pandas interpolation.  
-- **Comparative Study**: Analyzed U.S. and German economic trends (2009–2023).
+Pandas, NumPy, Matplotlib
 
-### Event Management App
-- **Full Stack**: Built a React & Kotlin app with Google Maps integration.  
-- **Architecture**: Employed MVVM with Firebase for real-time event updates.  
-- **Security**: Implemented admin permissions to safeguard sensitive data.
+UI/UX Design
 
----
+User-centered design principles, Wireframing, Prototyping
 
-# 📚 Certifications & Relevant Courses
-- Generative AI: Working with Large Language Models  
-- Machine Learning with Scikit-learn  
-- Data Structures & Algorithms  
-- Data Science  
-- Mobile Software Development  
-- Theory of Computation  
-- Computer Systems Fundamentals  
-- Computer Systems Programming  
-- Artificial Intelligence  
-- UX Design
+🛠️ GitHub Project Highlights
 
----
+Event Management App
+
+Developed a full-stack mobile app using React Native and Kotlin.
+
+Integrated Google Maps and Firebase for real-time updates.
+
+Implemented MVVM architecture and robust admin authentication for secure data management.
+
+Economic Indicators Analysis
+
+Conducted extensive data preprocessing and analysis using Pandas and NumPy.
+
+Visualized economic trends comparing the U.S. and Germany (2009–2023) using Matplotlib.
+
+AI & ML Model Experiments
+
+Built and optimized machine learning models with Scikit-learn and PyTorch.
+
+Explored generative AI applications and fine-tuning large language models (LLMs).
+
+Data Automation Pipeline
+
+Automated data collection and processing pipelines for academic research projects.
+
+Enhanced efficiency and accuracy through Python-based automation scripts.
+
+✨ Experience Highlights
+
+CodeSavanna (Remote Program Developer)
+
+September 2024 – Present
+
+Designed and instructed Python, web development, and data science curriculum.
+
+iD Tech Camp (Co-Director & Instructor)
+
+June 2023 – August 2024, Seattle, WA
+
+Taught Python, AI, and game development, mentoring 50+ high school students.
+
+VentureUp (Software Engineer)
+
+January 2024 – June 2024, Pristina, Kosovo
+
+Enhanced REST API security, performance optimization, and AI-driven personalization.
+
+📚 Certifications & Relevant Courses
+
+Generative AI: Working with Large Language Models
+
+Machine Learning with Scikit-learn
+
+Data Structures & Algorithms
+
+Data Science
+
+Mobile Software Development
+
+Artificial Intelligence
+
+UX Design
 
 
 
