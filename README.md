@@ -1,7 +1,8 @@
 # Hi everyone, my name is Valjete Hoxha
 [**LinkedIn**](https://linkedin.com/in/valjete-hoxha) • [**GitHub**](https://github.com/valjetahoxha) 
 
-I’m a **Computer Science** and **Computer Engineering** student with a passion for building data-driven applications, exploring AI & machine learning, and creating memorable user experiences. Whether I’m designing curriculum for emerging developers or fine-tuning a machine learning model, my goal is to push boundaries and drive meaningful impact.
+I'm a Computer Science and Computer Engineering student who loves turning ideas into reality through data-driven apps, AI, and machine learning. I enjoy crafting user experiences that genuinely resonate with people. From designing lessons to help aspiring young developers grow, to tweaking algorithms to perfection—my goal is always to innovate and create a positive impact.
+
 
 ---
 
@@ -21,22 +22,14 @@ I’m a **Computer Science** and **Computer Engineering** student with a passion
 
 # 🛠️ GitHub Project Highlights
 
-## [Event Management App](https://github.com/valjetahoxha/EventManagementApp)
+## [Event Management App](https://github.com/valjetahoxha/AttendanceTracker)
 - Developed a full-stack mobile app using **React Native** and **Kotlin**.
 - Integrated Google Maps and Firebase for real-time event updates.
 - Implemented MVVM architecture and robust admin authentication.
 
-## [Economic Indicators Analysis](https://github.com/valjetahoxha/Economic-Indicators-Analysis)
+## [Economic Indicators Analysis](https://valjetahoxha.github.io/valjetahoeconomy.io/)
 - Conducted extensive data preprocessing and analysis using Pandas and NumPy.
 - Visualized economic trends comparing the U.S. and Germany (2009–2023) using Matplotlib.
-
-## [AI & ML Model Experiments](https://github.com/valjetahoxha/ML-Experiments)
-- Built and optimized machine learning models with Scikit-learn and PyTorch.
-- Explored generative AI applications and fine-tuning large language models (LLMs).
-
-## [Data Automation Pipeline](https://github.com/valjetahoxha/Data-Automation-Pipeline)
-- Automated data collection and processing pipelines for academic research projects.
-- Enhanced efficiency and accuracy through Python-based automation scripts.
 
 # ✨ Experience Highlights
 
