@@ -1,5 +1,5 @@
-# Hi everyone, my name is Valjete Hoxha**  
-[**LinkedIn**](https://linkedin.com/in/valjete-hoxha) • [**GitHub**](https://github.com/valjetahoxha) • [**Email**](mailto:valjetahoxha2003@gmail.com)
+# Hi everyone, my name is Valjete Hoxha
+[**LinkedIn**](https://linkedin.com/in/valjete-hoxha) • [**GitHub**](https://github.com/valjetahoxha) 
 
 I’m a **Computer Science** and **Computer Engineering** student with a passion for building data-driven applications, exploring AI & machine learning, and creating memorable user experiences. Whether I’m designing curriculum for emerging developers or fine-tuning a machine learning model, my goal is to push boundaries and drive meaningful impact.
 
@@ -65,6 +65,6 @@ I’m a **Computer Science** and **Computer Engineering** student with a passion
 
 ## Connect with me:
 
-[**LinkedIn**](https://linkedin.com/in/valjete-hoxha) • [**GitHub**](https://github.com/valjetahoxha) • [**Email**](mailto:valjetahoxha2003@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/valjete-hoxha) • [**GitHub**](https://github.com/valjetahoxha) 
 
 
