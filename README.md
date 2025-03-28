@@ -33,17 +33,22 @@ I'm a Computer Science and Computer Engineering student who loves turning ideas 
 
 # ✨ Experience Highlights
 
-## CodeSavanna (Remote Program Developer)
+## CodeSavanna (Remote Tech Lead and Co-Founder)
 **September 2024 – Present**
 - Designed and instructed Python, web development, and data science curriculum.
+- Led the design and development of an AI-powered Learning Management System (LMS) to foster tech
+and entrepreneurship skills among Zambia's youth, resulting in the successful launch of the first cohort.
 
 ## iD Tech Camp (Co-Director & Instructor)
 **June 2023 – August 2024, Seattle, WA**
 - Taught Python, AI, and game development, mentoring 50+ high school students.
+- Implemented new features in the e-Curriculum to enhance functionality and optimize performance
+improving load times by 30%.
 
 ## VentureUp (Software Engineer)
 **January 2024 – June 2024, Pristina, Kosovo**
 - Enhanced REST API security, performance optimization, and AI-driven personalization.
+- Designed and deployed new product features, improving user experience and engagement.
 
 # 📚 Certifications & Relevant Courses
 - Generative AI: Working with Large Language Models
